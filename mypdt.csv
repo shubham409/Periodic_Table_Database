@@ -1,0 +1,120 @@
+number,name,symbol,name_symbol,appearance,atomic_number,group_block,period,element_category
+1,Hydrogen,H,"hydrogen, H",colorless gas,1,"group 1, s-block",1,diatomic nonmetal
+2,Helium,He,"helium, He","colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field",2,"group 18 (noble gases), s-block",1,noble gas
+3,Lithium,Li,"lithium, Li",silvery-white,3,"group 1 (alkali metals), s-block",2,alkali metal
+4,Beryllium,Be,"beryllium, Be",white-gray metallic,4,"group 2 (alkaline earth metals), s-block",2,alkaline earth metal
+5,Boron,B,"boron, B",black-brown,5,"group 13, p-block",2,metalloid
+6,Carbon,C,"carbon, C","graphite: black, diamond: clear",6,"group 14 (carbon group), p-block",2,"polyatomic nonmetal, sometimes considered a metalloid"
+7,Nitrogen,N,"nitrogen, N","colorless gas, liquid or solid",7,"group 15 (pnictogens), p-block",2,diatomic nonmetal
+8,Oxygen,O,"oxygen, O","gas: colorless, liquid: pale blue",8,"group 16 (chalcogens), p-block",2,diatomic nonmetal
+9,Fluorine,F,"fluorine, F","gas: very pale yellow
+liquid: bright yellow
+solid: alpha is opaque, beta is transparent",9,"group 17 (halogens), p-block",2,diatomic nonmetal
+10,Neon,Ne,"neon, Ne",colorless gas exhibiting an orange-red glow when placed in a high voltage electric field,10,"group 18 (noble gases), p-block",2,noble gas
+11,Sodium,Na,"sodium, Na",silvery white metallic,11,"group 1 (alkali metals), s-block",3,alkali metal
+12,Magnesium,Mg,"magnesium, Mg",shiny grey solid,12,"group 2 (alkaline earth metals), s-block",3,alkaline earth metal
+13,Aluminum,Al,"aluminium, Al",silvery gray metallic,13,"group 13, p-block",3,"post-transition metal, sometimes considered a metalloid"
+14,Silicon,Si,"silicon, Si","crystalline, reflective with bluish-tinged faces",14,"group 14 (carbon group), p-block",3,metalloid
+15,Phosphorus,P,"phosphorus, P","colourless, waxy white, yellow, scarlet, red, violet, black",15,"group 15 (pnictogens), p-block",3,polyatomic nonmetal
+16,Sulfur,S,"sulfur, S",lemon yellow sintered microcrystals,16,"group 16 (chalcogens), p-block",3,polyatomic nonmetal
+17,Chlorine,Cl,"chlorine, Cl",pale yellow-green gas,17,"group 17 (halogens), p-block",3,diatomic nonmetal
+18,Argon,Ar,"argon, Ar",colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field,18,"group 18 (noble gases), p-block",3,noble gas
+19,Potassium,K,"potassium, K",silvery gray,19,"group 1 (alkali metals), s-block",4,alkali metal
+20,Calcium,Ca,"calcium, Ca","dull gray, silver; with a pale yellow tint",20,"group 2 (alkaline earth metals), s-block",4,alkaline earth metal
+21,Scandium,Sc,"scandium, Sc",silvery white,21,"group 3, d-block",4,transition metal
+22,Titanium,Ti,"titanium, Ti",silvery grey-white metallic,22,"group 4, d-block",4,transition metal
+23,Vanadium,V,"vanadium, V",blue-silver-grey metal,23,"group 5, d-block",4,transition metal
+24,Chromium,Cr,"chromium, Cr",silvery metallic,24,"group 6, d-block",4,transition metal
+25,Manganese,Mn,"manganese, Mn",silvery metallic,25,"group 7, d-block",4,transition metal
+26,Iron,Fe,"iron, Fe",lustrous metallic with a grayish tinge,26,"group 8, d-block",4,transition metal
+27,Cobalt,Co,"cobalt, Co",hard lustrous bluish gray metal,27,"group 9, d-block",4,transition metal
+28,Nickel,Ni,"nickel, Ni","lustrous, metallic, and silver with a gold tinge",28,"group 10, d-block",4,transition metal
+29,Copper,Cu,"copper, Cu",red-orange metallic luster,29,"group 11, d-block",4,transition metal
+30,Zinc,Zn,"zinc, Zn",silver-gray,30,"group 12, d-block",4,"transition metal, alternatively considered a post-transition metal"
+31,Gallium,Ga,"gallium, Ga",silvery blue,31,"group 13, p-block",4,post-transition metal
+32,Germanium,Ge,"germanium, Ge",grayish-white,32,"group 14 (carbon group), p-block",4,metalloid
+33,Arsenic,As,"arsenic, As",metallic grey,33,"group 15 (pnictogens), p-block",4,metalloid
+34,Selenium,Se,"selenium, Se","black, red, and gray (not pictured) allotropes",34,"group 16 (chalcogens), p-block",4,"polyatomic nonmetal, sometimes considered a metalloid"
+35,Bromine,Br,"bromine, Br",reddish-brown,35,"group 17 (halogens), p-block",4,diatomic nonmetal
+36,Krypton,Kr,"krypton, Kr","colorless gas, exhibiting a whitish glow in a high electric field",36,"group 18 (noble gases), p-block",4,noble gas
+37,Rubidium,Rb,"rubidium, Rb",grey white,37,"group 1 (alkali metals), s-block",5,alkali metal
+38,Strontium,Sr,"strontium, Sr",silvery white metallic; with a pale yellow tint,38,"group 2 (alkaline earth metals), s-block",5,alkaline earth metal
+39,Yttrium,Y,"yttrium, Y",silvery white,39,"group 3, d-block",5,transition metal
+40,Zirconium,Zr,"zirconium, Zr",silvery white,40,"group 4, d-block",5,transition metal
+41,Niobium,Nb,"niobium, Nb","gray metallic, bluish when oxidized",41,"group 5, d-block",5,transition metal
+42,Molybdenum,Mo,"molybdenum, Mo",gray metallic,42,"group 6, d-block",5,transition metal
+43,Technetium,Tc,"technetium, Tc",shiny gray metal,43,"group 7, d-block",5,transition metal
+44,Ruthenium,Ru,"ruthenium, Ru",silvery white metallic,44,"group 8, d-block",5,transition metal
+45,Rhodium,Rh,"rhodium, Rh",silvery white metallic,45,"group 9, d-block",5,transition metal
+46,Palladium,Pd,"palladium, Pd",silvery white,46,"group 10, d-block",5,transition metal
+47,Silver,Ag,"silver, Ag",lustrous white metal,47,"group 11, d-block",5,transition metal
+48,Cadmium,Cd,"cadmium, Cd",silvery bluish-gray metallic,48,"group 12, d-block",5,"transition metal, alternatively considered a post-transition metal"
+49,Indium,In,"indium, In",silvery lustrous gray,49,"group 13, p-block",5,post-transition metal
+50,Tin,Sn,"tin, Sn","silvery-white (beta, ?) or gray (alpha, ?)",50,"group 14 (carbon group), p-block",5,post-transition metal
+51,Antimony,Sb,"antimony, Sb",silvery lustrous gray,51,"group 15 (pnictogens), p-block",5,metalloid
+52,Tellurium,Te,"tellurium, Te","silvery lustrous gray (crystalline),, brown-black powder (amorphous)",52,"group 16 (chalcogens), p-block",5,metalloid
+53,Iodine,I,"iodine, I","lustrous metallic gray, violet as a gas",53,"group 17 (halogens), p-block",5,diatomic nonmetal
+54,Xenon,Xe,"xenon, Xe","colorless gas, exhibiting a blue glow when placed in a high voltage electric field",54,"group 18 (noble gases), p-block",5,noble gas
+55,Cesium,Cs,"caesium, Cs",pale gold,55,"group 1 (alkali metals), s-block",6,alkali metal
+56,Barium,Ba,"barium, Ba",silvery gray; with a pale yellow tint,56,"group 2 (alkaline earth metals), s-block",6,alkaline earth metals
+57,Lanthanum,La,"lanthanum, La",silvery white,57,"group n/a, f-block",6,"lanthanide, sometimes considered a transition metal"
+58,Cerium,Ce,"cerium, Ce",silvery white,58,"group n/a, f-block",6,lanthanide
+59,Praseodymium,Pr,"praseodymium, Pr",grayish white,59,"group n/a, f-block",6,lanthanide
+60,Neodymium,Nd,"neodymium, Nd",silvery white,60,"group n/a, f-block",6,lanthanide
+61,Promethium,Pm,"promethium, Pm",metallic,61,"group n/a, f-block",6,lanthanide
+62,Samarium,Sm,"samarium, Sm",silvery white,62,"group n/a, f-block",6,lanthanide
+63,Europium,Eu,"europium, Eu","silvery white, with a pale yellow tint; but rarely seen without oxide discoloration",63,"group n/a, f-block",6,lanthanide
+64,Gadolinium,Gd,"gadolinium, Gd",silvery white,64,"group n/a, f-block",6,lanthanide
+65,Terbium,Tb,"terbium, Tb",silvery white,65,"group n/a, f-block",6,lanthanide
+66,Dysprosium,Dy,"dysprosium, Dy",silvery white,66,"group n/a, f-block",6,lanthanide
+67,Holmium,Ho,"holmium, Ho",silvery white,67,"group n/a, f-block",6,lanthanide
+68,Erbium,Er,"erbium, Er",silvery white,68,"group n/a, f-block",6,lanthanide
+69,Thulium,Tm,"thulium, Tm",silvery gray,69,"group n/a, f-block",6,lanthanide
+70,Ytterbium,Yb,"ytterbium, Yb",silvery white; with a pale yellow tint,70,"group n/a, f-block",6,lanthanide
+71,Lutetium,Lu,"lutetium, Lu",silvery white,71,"group n/a, d-block",6,"lanthanide, sometimes considered a transition metal"
+72,Hafnium,Hf,"hafnium, Hf",steel gray,72,"group 4, d-block",6,transition metal
+73,Tantalum,Ta,"tantalum, Ta",gray blue,73,"group 5, d-block",6,transition metal
+74,Tungsten,W,"tungsten, W","grayish white, lustrous",74,"group 6, d-block",6,transition metal
+75,Rhenium,Re,"rhenium, Re",silvery-grayish,75,"group 7, d-block",6,transition metal
+76,Osmium,Os,"osmium, Os","silvery, blue cast",76,"group 8, d-block",6,transition metal
+77,Iridium,Ir,"iridium, Ir",silvery white,77,"group 9, d-block",6,transition metal
+78,Platinum,Pt,"platinum, Pt",silvery white,78,"group 10, d-block",6,transition metal
+79,Gold,Au,"gold, Au",metallic yellow,79,"group 11, d-block",6,transition metal
+80,Mercury,Hg,"mercury, Hg",silvery,80,"group 12, d-block",6,"transition metal, alternatively considered a post-transition metal"
+81,Thallium,Tl,"thallium, Tl",silvery white,81,"group 13, p-block",6,post-transition metal
+82,Lead,Pb,"lead, Pb",metallic gray,82,"group 14 (carbon group), p-block",6,post-transition metal
+83,Bismuth,Bi,"bismuth, Bi",lustrous brownish silver,83,"group 15 (pnictogens), p-block",6,post-transition metal
+84,Polonium,Po,"polonium, Po",silvery,84,"group 16 (chalcogens), p-block",6,"post-transition metal, but this status is disputed"
+85,Astatine,At,"astatine, At","unknown, probably metallic",85,"group 17 (halogens), p-block",6,"metalloid, sometimes classified as a nonmetal, or a metal"
+86,Radon,Rn,"radon, Rn","colorless gas, occasionally glows green or red in discharge tubes",86,"group 18 (noble gases), p-block",6,noble gas
+87,Francium,Fr,"francium, Fr",,87,"group 1 (alkali metals), s-block",7,alkali metal
+88,Radium,Ra,"radium, Ra",silvery white metallic,88,"group 2 (alkaline earth metals), s-block",7,alkaline earth metal
+89,Actinium,Ac,"actinium, Ac","silvery-white, glowing with an eerie blue light; sometimes with a golden cast",89,"group n/a, f-block",7,"actinide, sometimes considered a transition metal"
+90,Thorium,Th,"thorium, Th","silvery, often with black tarnish",90,"group n/a, f-block",7,actinide
+91,Protactinium,Pa,"protactinium, Pa","bright, silvery metallic luster",91,"group n/a, f-block",7,actinide
+92,Uranium,U,"uranium, U",silvery gray metallic; corrodes to a spalling black oxide coat in air,92,"group n/a, f-block",7,actinide
+93,Neptunium,Np,"neptunium, Np",silvery metallic,93,"group n/a, f-block",7,actinide
+94,Plutonium,Pu,"plutonium, Pu","silvery white, tarnishing to dark gray in air",94,"group n/a, f-block",7,actinide
+95,Americium,Am,"americium, Am",silvery white,95,"group n/a, f-block",7,actinide
+96,Curium,Cm,"curium, Cm","silvery metallic, glows purple in the dark",96,"group n/a, f-block",7,actinide
+97,Berkelium,Bk,"berkelium, Bk",silvery,97,"group n/a, f-block",7,actinide
+98,Californium,Cf,"californium, Cf",silvery,98,"group n/a, f-block",7,actinide
+99,Einsteinium,Es,"einsteinium, Es",silvery; glows blue in the dark,99,"group n/a, f-block",7,actinide
+100,Fermium,Fm,"fermium, Fm",,100,"group n/a, f-block",7,actinide
+101,Mendelevium,Md,"mendelevium, Md",,101,"group n/a, f-block",7,actinide
+102,Nobelium,No,"nobelium, No",,102,"group n/a, f-block",7,actinide
+103,Lawrencium,Lr,"lawrencium, Lr",silvery (predicted),103,"group n/a, d-block",7,"actinide, sometimes considered a transition metal"
+105,Dubnium,Db,"dubnium, Db",,105,"group 5, d-block",7,transition metal
+106,Seaborgium,Sg,"seaborgium, Sg",,106,"group 6, d-block",7,transition metal
+107,Bohrium,Bh,"bohrium, Bh",,107,"group 7, d-block",7,transition metal
+108,Hassium,Hs,"hassium, Hs",silvery (predicted),108,"group 8, d-block",7,transition metal
+109,Meitnerium,Mt,"meitnerium, Mt",,109,"group 9, d-block",7,"unknown, but probably a transition metal"
+110,Darmstadtium,Ds,"darmstadtium, Ds",,110,"group 10, d-block",7,"unknown, but probably a transition metal"
+111,Roentgenium,Rg,"roentgenium, Rg",silvery (predicted),111,"group 11, d-block",7,"unknown, but probably a transition metal"
+112,Ununbium,Uub,"copernicium, Cn",,112,"group 12, d-block",7,"transition metal, alternatively considered a post-transition metal"
+113,Ununtrium,Uut,"ununtrium, Uut",,113,"group 13, p-block",7,"unknown, but probably a post-transition metal"
+114,Ununquadium,Uuq,"flerovium, Fl",,114,"group 14 (carbon group), p-block",7,post-transition metal
+115,Ununpentium,Uup,"ununpentium, Uup",,115,"group 15 (pnictogens), p-block",7,"unknown, but probably a post-transition metal"
+116,Ununhexium,Uuh,"livermorium, Lv",,116,"group 16 (chalcogens), p-block",7,"unknown, but probably a post-transition metal"
+117,Ununseptium,Uus,"ununseptium, Uus",semimetallic (predicted),117,"group 17, p-block",7,"unknown, but probably a post-transition metal"
+118,Ununoctium,Uuo,"ununoctium, Uuo",,118,"group 18, p-block",7,"unknown, but predicted to be a noble gas"
